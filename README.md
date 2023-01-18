@@ -2,11 +2,11 @@
 
 🙋🏻‍♀️ I'm María Andrés
 
-🔬 I'm a biotechnologist with a MSc. in Urban Water Cycle
+💻 I know some Python and learning React at the moment
 
-💻 I'm currently learning programming 
+📓 You can find my sample projects here 
 
 📊 I'm interested in Data Analysis
 
-
+🔬 I'm a biotechnologist with a MSc. in Urban Water Cycle
 
