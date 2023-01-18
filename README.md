@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-<!--
-**MariaaAT/MariaaAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏻‍♀️ I'm María Andrés
+🔬 I'm a biotechnologist with a MSc. in Urban Water Cycle
+💻 I'm currently learning programming 
+📊 I'm interested in Data Analysis
 
 Here are some ideas to get you started:
 
